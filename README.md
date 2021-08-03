@@ -1,3 +1,6 @@
+> 本笔记为学相伴的RabbitMQ系列视频笔记
+> 视频地址为：https://www.bilibili.com/video/BV1dX4y1V73G
+
 # 一、中间件
 
 ## 1. 什么是中间件
